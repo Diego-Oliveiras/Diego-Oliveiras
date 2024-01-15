@@ -8,34 +8,27 @@
     <h1>👋 Prazer,Meu nome é Diego Santos Oliveira</h1>
     <p>📍 26 anos, residente em Cidade Tiradentes, São Paulo.</p>
     <p>💼 Atualmente trabalho na chat2deskBR, uma empresa omnichannel focada em APIs de mensageiros. Atuando como analista de dados e líder do setor.</p>
-
     <h2>🎓 Formação Acadêmica</h2>
     <ul>
         <li>Bacharel em Sistemas de Informação - UniFTC, Itabuna.</li>
     </ul>
-
     <h2>👨‍💼 Experiência Profissional na Aréa de Dados</h2>
     <ul>
         <li>2 anos de análise de dados na chat2desk</li>
     </ul>
-
     <h2>🎯 Objetivos Atuais</h2>
     <ul>
         <li>📊 Aprimorar conhecimentos em Power BI, análise de dados, estatística, BI e marketing.</li>
     </ul>
-
     <h2>🚀 Objetivo para 5 anos</h2>
     <p>Tornar-me um Analista de Dados Sênior e atuar em Engenharia de Dados.</p>
-
     <h2>🎮 Objetivo Pessoal</h2>
     <p>Desenvolver 2 jogos.</p>
-
     <h2>🌐 Idiomas</h2>
     <ul>
         <li>🇧🇷 Português [Nativo]</li>
         <li>🇬🇧 Inglês [Básico]</li>
     </ul>
-
     <h2>💡 Responsabilidades Atuais</h2>
     <ul>
         <li>📈 Criação e manutenção de dashboards para diversos setores.</li>
