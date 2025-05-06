@@ -6,58 +6,51 @@
 </head>
 <body>
     <h1>👋 Prazer,Meu nome é Diego Santos Oliveira</h1>
-    <p>📍 26 anos, residente em Cidade Tiradentes, São Paulo.</p>
-    <p>💼 Atualmente trabalho na chat2deskBR, uma empresa omnichannel focada em APIs de mensageiros. Atuando como analista de dados e líder do setor.</p>
+    <p>📍 27 anos, residente em Cidade Tiradentes, São Paulo.</p>
+    <p>💼 Atualmente trabalho na Acert - Consultoria, Atuando como analista de dados e Bi Pleno.</p>
     <h2>🎓 Formação Acadêmica</h2>
     <ul>
         <li>Bacharel em Sistemas de Informação - UniFTC, Itabuna.</li>
     </ul>
     <h2>👨‍💼 Experiência Profissional na Aréa de Dados</h2>
     <ul>
-        <li>2 anos de análise de dados na chat2desk</li>
+        <li>3 Anos com análise de dados</li>
     </ul>
     <h2>🎯 Objetivos Atuais</h2>
     <ul>
-        <li>📊 Aprimorar conhecimentos em Power BI, análise de dados, estatística, BI e marketing.</li>
+        <li>📊 Aprimorar conhecimentos em Power BI, análise de dados, estatística, BI e engenharia de dados.</li>
     </ul>
-    <h2>🚀 Objetivo para 5 anos</h2>
-    <p>Tornar-me um Analista de Dados Sênior e atuar em Engenharia de Dados.</p>
-    <h2>🎮 Objetivo Pessoal</h2>
-    <p>Desenvolver 2 jogos.</p>
-    <h2>🌐 Idiomas</h2>
-    <ul>
         <li>🇧🇷 Português [Nativo]</li>
         <li>🇬🇧 Inglês [Básico]</li>
     </ul>
     <h2>💡 Responsabilidades Atuais</h2>
     <ul>
         <li>📈 Criação e manutenção de dashboards para diversos setores.</li>
-        <li>🔢 Criação e manutenção de planilhas no Google Sheets.</li>
+        <li>🔢 Criação e manutenção de planilhas Excel.</li>
         <li>⚙️ Automação de processos empresariais.</li>
         <li>📊 Extração de dados de planilhas e bancos de dados.</li>
-        <li>🔗 Integrações com sistemas como N8N, Typebot, Chatwoot, Chat2Desk.</li>
-        <li>📝 Gestão de tarefas e organização de dados na ClickUp.</li>
-        <li>🔍 Exploração de novas oportunidades de crescimento empresarial.</li>
         <li>🤓 Análise de dados para geração de insights e oportunidades de negócios.</li>
     </ul>
     <h2>🛠️ Hard Skills</h2>
 <ul>
     <li>🐍 Python (Pandas, Requests, Flask, BeautifulSoup, Selenium, Psycopg, ETL) [Intermediário]</li>
     <li>🌐 CSS e HTML [Básico]</li>
-    <li>🌪️ Airflow [Acadêmico]</li>
+    <li>🌪️ Airflow [Básico]</li>
     <li>🔧 Git [Básico]</li>
     <li>📊 Looker Studio [Intermediário]</li>
-    <li>📈 Power BI [Básico]</li>
+    <li>📈 Power BI [Intermediário]</li>
+    <li>📈 Grafana [Basico]</li>
     <li>📉 Google Sheets [Intermediário] (Fórmulas)</li>
+    <li>📉 Excel [Intermediário]</li>
     <li>🔄 N8N [Intermediário]</li>
     <li>🖥️ Google Apresentações [Básico]</li>
-    <li>🗄️ PostgreSQL [Básico]</li>
+    <li>🗄️ PostgreSQL [Intermediário]</li>
     <li>🐳 Docker [Básico]</li>
     <li>🔁 Consumo de API Rest [Avançado]</li>
     <li>📢 Google ADS [Básico]</li>
     <li>📊 Google Analytics 4 [Básico]</li>
     <li>🔗 Google GTM [Intermediário]</li>
-    <li>👥 Facebook ADS [Experiência prévia]</li>
+    <li>👥 Facebook ADS [Experiência]</li>
     <li>🔗 Evolution e WPPConnect API [Intermediário]</li>
     <li>🐇 RabbitMQ com N8N [Básico]</li>
     <li>📝 ClickUp [Intermediário]</li>
@@ -70,7 +63,7 @@
 <h3>Com experiência mensurável</h3>
 <ul>
     <li>📋 Kanban [Intermediário]</li>
-    <li>📚 Storytelling [Básico]</li>
+    <li>📚 Storytelling [Intermediário]</li>
     <li>🔍 Análise de Dados [Intermediário]</li>
     <li>🧠 Inteligência de Negócios [Intermediário]</li>
 </ul>
